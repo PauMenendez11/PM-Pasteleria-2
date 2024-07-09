@@ -1,0 +1,103 @@
+@import url("https://fonts.googleapis.com/css2?family=Bodoni+Moda:ital,opsz,wght@0,6..96,400..900;1,6..96,400..900&display=swap");
+* {
+  margin: 0;
+  padding: 0;
+  font-family: "Bodoni Moda", serif;
+  box-sizing: border-box;
+}
+* {
+  color:  rgba(137, 43, 226, 0.373);
+  font-size: 20px;
+}
+.contenedortituloppal {
+  background-color: rgba(243, 178, 219, 0.1647058824);
+  text-align: center;
+}
+.contenedortituloppal .slogan {
+  color: black;
+}
+.contenedortitulo {
+  background-color: rgba(243, 178, 219, 0.1647058824);
+  text-align: center;
+}
+.contenedortitulo .titulo {
+  color: rgba(137, 43, 226, 0.373);
+  font-size: 50px;
+}
+
+.cajaalfajores .alfapepitoimg {
+  height: 100%;
+}
+.cajaalfajores .alfatrishotimg {
+  height: 100%;
+}
+.cajaalfajores .alfamaicenaimg {
+  height: 100%;
+}
+.cajaalfajores .cajaalfacordobes .alfacordobes {
+  height: 100%;
+}
+
+.cajatortas .carrotcakeimg {
+  height: 100%;
+}
+.cajatortas .matildaimg {
+  height: 100%;
+}
+.cajatortas .redvelvetimg {
+  height: 100%;
+}
+
+.contenedor {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  background-color: rgba(137, 43, 226, 0.164);
+  border-radius: 10px;
+  margin-bottom: 10px;
+}
+.contenedor .imagen {
+  border-radius: 10px;
+}
+.contenedor .texto {
+  margin-left: 5px;
+}
+
+.contenedordos {
+  display: flex;
+  flex-direction: row;
+  background-color: rgba(255, 228, 196, 0.432);
+  flex-direction: row-reverse;
+  border-radius: 10px;
+}
+.contenedordos .imagendos {
+  border-radius: 10px;
+}
+.contenedordos .textodos {
+  margin-left: 10px;
+  margin-right: 10px;
+  margin-top: 100px;
+}
+
+.formulario {
+  display: flex;
+  flex-direction: row;
+  background-color: rgba(254, 174, 187, 0.3882352941);
+  border-radius: 10px;
+}
+.formulario .nombre {
+  margin-left: 10px;
+}
+.formulario .email {
+  margin-left: 10px;
+}
+.formulario .mensaje {
+  margin-left: 10px;
+}
+.formulario .botonenviar {
+  margin-left: 10px;
+}
+.formulario .botonborrar {
+  margin-left: 10px;
+}/*# sourceMappingURL=estilo.css.map */

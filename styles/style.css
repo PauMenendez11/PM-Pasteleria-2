@@ -1,0 +1,165 @@
+@import url('https://fonts.googleapis.com/css2?family=Bodoni+Moda:ital,opsz,wght@0,6..96,400..900;1,6..96,400..900&display=swap');
+
+*{margin: 0;
+padding: 0;
+font-family: "Bodoni Moda", serif;
+box-sizing: border-box;
+}
+
+.contenedortituloppal{
+    background-color: #f3b2db2a;
+    text-align: center; }
+
+.tituloindex {
+    color: rgba(137, 43, 226, 0.373);}
+  
+
+.slogan {
+    color: black;}
+
+.cajaindex {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    background-color:rgba(137, 43, 226, 0.164);
+    border-radius: 10px;
+    margin-bottom: 10px; 
+    }
+.card-img-center {
+    height: 100%;
+}
+.porciones {
+    height: 100%;
+}
+
+.contenedortitulo {
+    background-color: #f3b2db2a;
+    text-align: center;
+}
+
+.titulo {
+    color:rgba(137, 43, 226, 0.373);
+    font-size: 50px;
+}
+
+.carrotcakeimg {
+    height: 100%;
+}
+
+.matildaimg {
+    height: 100%;
+}
+
+.redvelvetimg {
+    height: 100%;
+}
+
+.alfapepitoimg {
+    height: 100%;
+}
+
+.alfatrishotimg {
+    height: 100%;
+}
+
+.alfamaicenaimg {
+    height: 100%;
+}
+
+.contenedor {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    background-color:rgba(137, 43, 226, 0.164);
+    border-radius: 10px;
+    margin-bottom: 10px;
+
+}
+
+   .imagen {
+    border-radius: 10px;
+}
+   .texto {
+    margin-left: 5px;
+}
+
+.contenedordos {
+    display: flex;
+    flex-direction: row;
+    background-color: rgba(255, 228, 196, 0.432);
+    flex-direction: row-reverse;
+    border-radius: 10px;
+}
+
+.imagendos {
+    border-radius: 10px;  
+}
+
+.textodos {
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-top: 100px;
+}
+
+.formulario {
+    display: flex;
+    flex-direction: row;
+    background-color: #feaebb63;
+    border-radius: 10px;
+    
+}
+.nombre {
+    margin-left: 10px;
+}
+.email {
+    margin-left: 10px;
+}
+.mensaje {
+    margin-left: 10px;
+}
+.botonenviar {
+    margin-left: 10px;
+}
+.botonborrar {
+    margin-left: 10px;
+}
+
+.alfacordobes {
+    height: 100%;
+}
+
+.inicio, a:hover {
+    background-color: #f3b2db;
+    text-decoration: none;
+}
+
+.alfajores, a:hover {
+    background-color: #f3b2db;
+    text-decoration: none;
+}
+
+.tortas, a:hover {
+    background-color: #f3b2db;
+    text-decoration: none;
+
+}
+
+.quiensoy, a:hover {
+    background-color: #f3b2db;
+    text-decoration: none;
+
+}
+
+.contacto, a:hover {
+    background-color: #f3b2db;
+    text-decoration: none;
+}
+
+.tortachocoimg {
+    height: 63%;
+}
+
+
+
