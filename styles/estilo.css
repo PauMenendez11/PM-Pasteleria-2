@@ -5,47 +5,87 @@
   font-family: "Bodoni Moda", serif;
   box-sizing: border-box;
 }
-* {
-  color:  rgba(137, 43, 226, 0.373);
-  font-size: 20px;
-}
-.contenedortituloppal {
-  background-color: rgba(243, 178, 219, 0.1647058824);
-  text-align: center;
-}
-.contenedortituloppal .slogan {
-  color: black;
-}
+
 .contenedortitulo {
   background-color: rgba(243, 178, 219, 0.1647058824);
   text-align: center;
 }
-.contenedortitulo .titulo {
+
+.titulo {
   color: rgba(137, 43, 226, 0.373);
   font-size: 50px;
 }
 
-.cajaalfajores .alfapepitoimg {
-  height: 100%;
+.slogan {
+  color: black;
 }
-.cajaalfajores .alfatrishotimg {
-  height: 100%;
+
+.cajaindex {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  background-color: rgba(137, 43, 226, 0.164);
+  border-radius: 10px;
+  margin-bottom: 10px;
 }
-.cajaalfajores .alfamaicenaimg {
-  height: 100%;
+
+.contenedortitulo {
+  background-color: rgba(243, 178, 219, 0.1647058824);
+  text-align: center;
 }
-.cajaalfajores .cajaalfacordobes .alfacordobes {
+
+.titulo {
+  color: rgba(137, 43, 226, 0.373);
+  font-size: 50px;
+}
+
+.carrotcakeimg {
   height: 100%;
 }
 
-.cajatortas .carrotcakeimg {
+.matildaimg {
   height: 100%;
 }
-.cajatortas .matildaimg {
+
+.redvelvetimg {
   height: 100%;
 }
-.cajatortas .redvelvetimg {
+
+.contenedortitulo {
+  background-color: rgba(243, 178, 219, 0.1647058824);
+  text-align: center;
+}
+
+.titulo {
+  color: rgba(137, 43, 226, 0.373);
+  font-size: 50px;
+}
+
+.alfapepitoimg {
   height: 100%;
+}
+
+.alfatrishotimg {
+  height: 100%;
+}
+
+.alfamaicenaimg {
+  height: 100%;
+}
+
+.alfacordobes {
+  height: 100%;
+}
+
+.contenedortitulo {
+  background-color: rgba(243, 178, 219, 0.1647058824);
+  text-align: center;
+}
+
+.titulo {
+  color: rgba(137, 43, 226, 0.373);
+  font-size: 50px;
 }
 
 .contenedor {
@@ -57,10 +97,12 @@
   border-radius: 10px;
   margin-bottom: 10px;
 }
-.contenedor .imagen {
+
+.imagen {
   border-radius: 10px;
 }
-.contenedor .texto {
+
+.texto {
   margin-left: 5px;
 }
 
@@ -71,13 +113,25 @@
   flex-direction: row-reverse;
   border-radius: 10px;
 }
-.contenedordos .imagendos {
+
+.imagendos {
   border-radius: 10px;
 }
-.contenedordos .textodos {
+
+.textodos {
   margin-left: 10px;
   margin-right: 10px;
   margin-top: 100px;
+}
+
+.contenedortitulo {
+  background-color: rgba(243, 178, 219, 0.1647058824);
+  text-align: center;
+}
+
+.titulo {
+  color: rgba(137, 43, 226, 0.373);
+  font-size: 50px;
 }
 
 .formulario {
@@ -86,18 +140,52 @@
   background-color: rgba(254, 174, 187, 0.3882352941);
   border-radius: 10px;
 }
-.formulario .nombre {
+
+.nombre {
   margin-left: 10px;
 }
-.formulario .email {
+
+.email {
   margin-left: 10px;
 }
-.formulario .mensaje {
+
+.mensaje {
   margin-left: 10px;
 }
-.formulario .botonenviar {
+
+.botonenviar {
   margin-left: 10px;
 }
-.formulario .botonborrar {
+
+.botonborrar {
   margin-left: 10px;
+}
+
+.hover {
+  background-color: #f3b2db;
+}
+
+.inicio, a:hover {
+  background-color: #f3b2db;
+  text-decoration: none;
+}
+
+.alfajores, a:hover {
+  background-color: #f3b2db;
+  text-decoration: none;
+}
+
+.tortas, a:hover {
+  background-color: #f3b2db;
+  text-decoration: none;
+}
+
+.quiensoy, a:hover {
+  background-color: #f3b2db;
+  text-decoration: none;
+}
+
+.contacto, a:hover {
+  background-color: #f3b2db;
+  text-decoration: none;
 }/*# sourceMappingURL=estilo.css.map */

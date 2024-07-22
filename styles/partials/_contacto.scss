@@ -1,0 +1,30 @@
+.contenedortitulo {
+    background-color: #f3b2db2a;
+    text-align: center;}
+.titulo {
+        color:rgba(137, 43, 226, 0.373);
+        font-size: 50px;
+    }
+    .formulario {
+        display: flex;
+        flex-direction: row;
+        background-color: #feaebb63;
+        border-radius: 10px;
+        
+    }
+    .nombre {
+        margin-left: 10px;
+    }
+    .email {
+        margin-left: 10px;
+    }
+    .mensaje {
+        margin-left: 10px;
+    }
+    .botonenviar {
+        margin-left: 10px;
+    }
+    .botonborrar {
+        margin-left: 10px;
+    }
+    

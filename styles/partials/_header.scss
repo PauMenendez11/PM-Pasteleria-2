@@ -1,47 +1,27 @@
-.contenedortitulo {
-    background-color: #f3b2db2a;
-    text-align: center;
+/*header {
+    margin: 0;
+    padding: 0;
+    font-family: "Bodoni Moda", serif;
+    box-sizing: border-box;
 
-    .titulo {
-        color:rgba(137, 43, 226, 0.373);
-        font-size: 50px;
-    }
-}
-
-.contenedortituloppal {
-    background-color: #f3b2db2a;
-    text-align: center;
-
- .slogan {
-    color: black;
-}
-}
-.tituloindex {
-    color: rgba(137, 43, 226, 0.373);}
-.navbarfooter {
  .inicio, a:hover {
-        background-color: #f3b2db;
-        text-decoration: none;
-    }
-    
+    background-color: $thirdColor;
+    text-decoration: none;
+}
  .alfajores, a:hover {
-        background-color: #f3b2db;
-        text-decoration: none;
-    }
-    
+    background-color: $thirdColor;
+    text-decoration: none;
+}
  .tortas, a:hover {
-        background-color: #f3b2db;
-        text-decoration: none;
-    
-    }
+    background-color: $thirdColor;
+    text-decoration: none;
+}
  .quiensoy, a:hover {
-        background-color: #f3b2db;
-        text-decoration: none;
-    
-    }
-    
+    background-color: $thirdColor;
+    text-decoration: none;
+}
  .contacto, a:hover {
-        background-color: #f3b2db;
-        text-decoration: none;
-    }
+    background-color: $thirdColor;
+    text-decoration: none;
+}
 }

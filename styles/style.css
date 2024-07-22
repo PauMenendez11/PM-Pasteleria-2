@@ -6,16 +6,39 @@ font-family: "Bodoni Moda", serif;
 box-sizing: border-box;
 }
 
-.contenedortituloppal{
+
+
+.inicio, a:hover {
+    background-color: #f3b2db;
+    text-decoration: none;
+}
+.alfajores, a:hover {
+    background-color: #f3b2db;
+    text-decoration: none;
+}
+.tortas, a:hover {
+    background-color: #f3b2db;
+    text-decoration: none;
+}
+.quiensoy, a:hover {
+    background-color: #f3b2db;
+    text-decoration: none;
+}
+.contacto, a:hover {
+    background-color: #f3b2db;
+    text-decoration: none;
+}
+
+.contenedortitulo {
     background-color: #f3b2db2a;
-    text-align: center; }
-
-.tituloindex {
-    color: rgba(137, 43, 226, 0.373);}
-  
-
-.slogan {
-    color: black;}
+    text-align: center;}
+.titulo {
+        color:rgba(137, 43, 226, 0.373);
+        font-size: 50px;
+    }
+ .slogan {
+    color: black;
+}
 
 .cajaindex {
     display: flex;
@@ -26,34 +49,20 @@ box-sizing: border-box;
     border-radius: 10px;
     margin-bottom: 10px; 
     }
-.card-img-center {
-    height: 100%;
-}
-.porciones {
-    height: 100%;
-}
 
-.contenedortitulo {
-    background-color: #f3b2db2a;
-    text-align: center;
-}
 
-.titulo {
-    color:rgba(137, 43, 226, 0.373);
-    font-size: 50px;
-}
+
 
 .carrotcakeimg {
     height: 100%;
 }
-
 .matildaimg {
     height: 100%;
 }
-
 .redvelvetimg {
     height: 100%;
 }
+
 
 .alfapepitoimg {
     height: 100%;
@@ -66,6 +75,10 @@ box-sizing: border-box;
 .alfamaicenaimg {
     height: 100%;
 }
+.alfacordobes {
+    height: 100%;
+}
+
 
 .contenedor {
     display: flex;
@@ -75,15 +88,15 @@ box-sizing: border-box;
     background-color:rgba(137, 43, 226, 0.164);
     border-radius: 10px;
     margin-bottom: 10px;
-
 }
-
    .imagen {
     border-radius: 10px;
 }
    .texto {
     margin-left: 5px;
 }
+
+
 
 .contenedordos {
     display: flex;
@@ -102,6 +115,8 @@ box-sizing: border-box;
     margin-right: 10px;
     margin-top: 100px;
 }
+
+
 
 .formulario {
     display: flex;
@@ -126,9 +141,7 @@ box-sizing: border-box;
     margin-left: 10px;
 }
 
-.alfacordobes {
-    height: 100%;
-}
+
 
 .inicio, a:hover {
     background-color: #f3b2db;
@@ -157,9 +170,7 @@ box-sizing: border-box;
     text-decoration: none;
 }
 
-.tortachocoimg {
-    height: 63%;
-}
+
 
 
 

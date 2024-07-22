@@ -1,0 +1,19 @@
+.contenedortitulo {
+    background-color: #f3b2db2a;
+    text-align: center;}
+.titulo {
+        color:rgba(137, 43, 226, 0.373);
+        font-size: 50px;
+    }
+ .slogan {
+    color: black;
+}
+.cajaindex {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    background-color:rgba(137, 43, 226, 0.164);
+    border-radius: 10px;
+    margin-bottom: 10px; 
+    }
